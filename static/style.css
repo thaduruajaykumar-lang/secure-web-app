@@ -1,0 +1,37 @@
+body{
+font-family:Arial;
+background:#f4f4f4;
+}
+
+.container{
+width:350px;
+margin:80px auto;
+padding:20px;
+background:white;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.1);
+}
+
+input{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button{
+width:100%;
+padding:10px;
+background:#007bff;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+button:hover{
+opacity:.9;
+}
+
+a{
+display:block;
+margin-top:10px;
+}
